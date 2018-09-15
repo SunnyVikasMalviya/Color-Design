@@ -1,0 +1,36 @@
+body {
+  background-color: #fdfdfd;
+  margin:0;
+  padding: 0;
+  overflow: hidden;
+}
+section {
+  width: 100%;
+  display: block;
+  height: 18vh;
+  padding: 1vh;
+  font-size: 22px;
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+}
+
+.first-color {
+  background-color: hsla(2, 100%, 50%, 1);
+}
+.second-color {
+  background-color: hsla(9, 100%, 50%, 1);
+}
+.third-color {
+  background-color: hsla(16, 100%, 50%, 1);
+}
+.fourth-color {
+  background-color: hsla(31, 100%, 50%, 1);
+}
+.fifth-color {
+  background-color: hsla(46, 100%, 50%, 1);
+}
+
+/*The "pure" color is set with the Hue. This is expressed as the angle in degrees around the color wheel.
+Saturation refers to the intensity or purity of that hue. Colors with full saturation (100%) are the color itself, colors with no saturation (0%) are completely grayscale.
+Lightness refers to the lightness of the color. 0% is black, 100% is white.
+A, or alpha, refers to the opacity. 0% is fully transparent, 100% is fully opaque.*/
