@@ -1,0 +1,41 @@
+Color Psychology
+
+Here are emotions attached to some of the colors:
+
+Red: Passionate, energetic, angry
+Orange: Optimistic, playful, fun
+Yellow: Welcoming, intellectual, impatient
+Green: Prosperous, balanced, growing
+Blue: Peaceful, loyal, cold
+Purple: Imaginative, royal, spiritual
+Gray: Unemotional, compromising
+White: Innocent, pure
+Black: Luxurious, powerful
+
+Best Practices
+
+Now that we’ve talked through how to choose the proper colors for your designs, there are some best practices to consider as well.
+
+Use neon colors sparingly. While the use of neon colors can feel hip, they are often hard on a user’s eyes.
+
+Avoid vibrating colors. Vibrating colors result from pairing two colors with high saturation together that may be complementary to one another. It creates a glowing or moving effect, which also can be hard on one’s eyes.
+
+Use backdrops to separate vibrating colors. Reduce the space where the contrasting colors are directly next to each other, but the overall effect is still too intense for most websites.
+
+Avoid color combinations with insufficient contrast, including:
+
+Bright colors on top of bright colors
+Light colors on top of light colors
+Dark colors on top of dark colors
+Even if there's enough contrast in these pairings for the different colors to be legible, they likely won't create enough contrast to attract the user's attention.
+
+Remember that most users skim websites! They are not reading every word and checking every menu—you need to guide the user to the most important content with good color choices.
+
+Remember, the keys to choosing the right colors for your projects are:
+
+Using the color wheel as a basis for selecting colors
+Using a color scheme approach that promotes harmony
+Using colors that fit the context and emotion you are trying to display to users
+Using contrast to enhance the legibility of elements on the page
+Using shades and tints of a color to create flexibility
+Avoiding combinations that can cause issues for users
